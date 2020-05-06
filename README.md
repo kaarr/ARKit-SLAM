@@ -10,6 +10,6 @@ This project is created to test the visual-inertial odometry of ARKit. The testi
 
 ## License
 
-Available as open source under the terms of the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Available as open source under the terms of the MIT License. 
 
 
